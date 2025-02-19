@@ -4,3 +4,5 @@ add some text by a
 
 change by A
 change by me
+
+addLine8 by beadx6
